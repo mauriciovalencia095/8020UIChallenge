@@ -22,15 +22,15 @@ Este proyecto utiliza las siguientes dependencias:
 
 ## Instalación
 
-1. Clona el repositorio o descarga el proyecto.
+1. Clonar el repositorio o descarga el proyecto: https://github.com/mauriciovalencia095/8020UIChallenge.git
 
-2. Abre el proyecto en tu IDE o editor de texto preferido.
+2. Abrir el proyecto en tu IDE o editor de texto preferido.
 
-3. Asegúrate de tener las dependencias necesarias en el archivo `build.gradle`.
+3. Aseguararse de tener las dependencias necesarias en el archivo `build.gradle`.
 
 4. Si no tienes **Gradle** instalado, puedes instalarlo siguiendo la [guía oficial de Gradle](https://gradle.org/install/).
 
-5. Para construir y ejecutar las pruebas, abre una terminal en la raíz del proyecto y ejecuta:
+5. Para construir y ejecutar las pruebas, abrir una terminal en la raíz del proyecto y ejecuta:
 
    ```bash
    gradle test
